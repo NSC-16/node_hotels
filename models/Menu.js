@@ -26,6 +26,6 @@ const menuSchema = new mongoose.Schema({
 
 // Create the Menu model
 const Menu = mongoose.model('Menu', menuSchema);
-//yp
+//This is call new one
 
 module.exports = Menu;

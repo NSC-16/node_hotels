@@ -1,0 +1,18 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "Node js practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nainish Chhetri",
+  "license": "ISC",
+  "dependencies": {
+    "err": "^2.1.12",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1",
+    "node_practice": "file:",
+    "os": "^0.1.2"
+  }
+}

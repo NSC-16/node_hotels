@@ -1,0 +1,18 @@
+use express.js to avoid connection error while posting the 
+data using post method
+
+
+mongoose ODM(Object data modelling)
+- mongoDB and Node Js ko aapas mai baat krne mai help
+   krta hai
+   - use krte hai because popular hai
+   structure scehema deta hai with less code while 
+   MongoDB driver mai bahoot coding karni padti hai  
+
+
+CRUD operatuions
+-Menu mai kiye hai 
+-URL aisa: http://localhost:8000/menu/66dae704c4a576e4a482e5c0 hona chahiye
+ naaki aisa http://localhost:8000/menu:66dae704c4a576e4a482e5c0 
+
+-sabki crud operations ke liye
